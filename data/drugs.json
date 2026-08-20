@@ -1,0 +1,119 @@
+{
+  "dataset": "GLP-1 Drug Reference",
+  "description": "Neutral clinical reference for GLP-1 and GLP-1/GIP receptor agonist medications: active molecule, manufacturer, FDA status, indication, average weight loss, and the pivotal trial each figure comes from.",
+  "source": "https://glp1watchdog.com",
+  "license": "CC BY 4.0 — free to use with attribution to GLP-1 Watchdog (glp1watchdog.com)",
+  "methodology": "https://glp1watchdog.com/methodology",
+  "last_updated": "2026-08",
+  "note": "Weight-loss figures are approximate averages from each drug's pivotal trial(s) and vary by dose, duration, and population. Compounded semaglutide and tirzepatide use the same active molecule as their brand equivalents but are NOT FDA-approved as finished products.",
+  "drugs": [
+    {
+      "brand": "Wegovy",
+      "molecule": "semaglutide",
+      "dose": "2.4 mg weekly (subcutaneous)",
+      "manufacturer": "Novo Nordisk",
+      "route": "injection",
+      "fda_approved": true,
+      "indication": "chronic weight management",
+      "avg_weight_loss": "~15% of body weight",
+      "pivotal_trial": "STEP 1",
+      "source": "STEP 1, New England Journal of Medicine, 2021"
+    },
+    {
+      "brand": "Ozempic",
+      "molecule": "semaglutide",
+      "dose": "up to 2 mg weekly (subcutaneous)",
+      "manufacturer": "Novo Nordisk",
+      "route": "injection",
+      "fda_approved": true,
+      "indication": "type 2 diabetes (weight loss is off-label)",
+      "avg_weight_loss": "8–14% of body weight",
+      "pivotal_trial": "SUSTAIN",
+      "source": "SUSTAIN clinical trial program"
+    },
+    {
+      "brand": "Rybelsus",
+      "molecule": "semaglutide (oral)",
+      "dose": "7–14 mg daily (oral tablet)",
+      "manufacturer": "Novo Nordisk",
+      "route": "oral",
+      "fda_approved": true,
+      "indication": "type 2 diabetes",
+      "avg_weight_loss": "5–10% of body weight",
+      "pivotal_trial": "PIONEER",
+      "source": "PIONEER clinical trial program"
+    },
+    {
+      "brand": "Zepbound",
+      "molecule": "tirzepatide",
+      "dose": "up to 15 mg weekly (subcutaneous)",
+      "manufacturer": "Eli Lilly",
+      "route": "injection",
+      "fda_approved": true,
+      "indication": "chronic weight management",
+      "avg_weight_loss": "~21% of body weight",
+      "pivotal_trial": "SURMOUNT-1",
+      "source": "SURMOUNT-1, New England Journal of Medicine, 2022"
+    },
+    {
+      "brand": "Mounjaro",
+      "molecule": "tirzepatide",
+      "dose": "up to 15 mg weekly (subcutaneous)",
+      "manufacturer": "Eli Lilly",
+      "route": "injection",
+      "fda_approved": true,
+      "indication": "type 2 diabetes (weight loss is off-label)",
+      "avg_weight_loss": "15–22% of body weight",
+      "pivotal_trial": "SURPASS / SURMOUNT",
+      "source": "SURPASS and SURMOUNT clinical trial programs"
+    },
+    {
+      "brand": "Foundayo",
+      "molecule": "orforglipron",
+      "dose": "oral, once daily",
+      "manufacturer": "Eli Lilly",
+      "route": "oral",
+      "fda_approved": true,
+      "indication": "chronic weight management (approved April 2026)",
+      "avg_weight_loss": "up to ~12.4% of body weight (top dose)",
+      "pivotal_trial": "ATTAIN-1",
+      "source": "ATTAIN-1 clinical trial, 2026"
+    },
+    {
+      "brand": "Saxenda",
+      "molecule": "liraglutide",
+      "dose": "3.0 mg daily (subcutaneous)",
+      "manufacturer": "Novo Nordisk",
+      "route": "injection",
+      "fda_approved": true,
+      "indication": "chronic weight management",
+      "avg_weight_loss": "5–8% of body weight",
+      "pivotal_trial": "SCALE",
+      "source": "SCALE clinical trial program"
+    },
+    {
+      "brand": "Compounded semaglutide",
+      "molecule": "semaglutide",
+      "dose": "varies by pharmacy/provider",
+      "manufacturer": "licensed 503A/503B compounding pharmacies",
+      "route": "injection",
+      "fda_approved": false,
+      "indication": "prescribed for weight loss via telehealth",
+      "avg_weight_loss": "same active molecule as Wegovy/Ozempic; not independently trialed",
+      "pivotal_trial": "n/a (not FDA-approved as a finished product)",
+      "source": "https://glp1watchdog.com/compounded-semaglutide"
+    },
+    {
+      "brand": "Compounded tirzepatide",
+      "molecule": "tirzepatide",
+      "dose": "varies by pharmacy/provider",
+      "manufacturer": "licensed 503A/503B compounding pharmacies",
+      "route": "injection",
+      "fda_approved": false,
+      "indication": "prescribed for weight loss via telehealth",
+      "avg_weight_loss": "same active molecule as Zepbound/Mounjaro; not independently trialed",
+      "pivotal_trial": "n/a (not FDA-approved as a finished product)",
+      "source": "https://glp1watchdog.com/compounded-tirzepatide"
+    }
+  ]
+}
