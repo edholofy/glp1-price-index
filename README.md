@@ -9,7 +9,7 @@
 ## TL;DR — GLP-1 prices (August 2026)
 
 - **Cheapest compounded semaglutide: `$69/month`.** Cheapest compounded tirzepatide: **`$119/month`.**
-- Across **46 tracked U.S. telehealth providers**, compounded semaglutide ranges **$69–$299/month** and compounded tirzepatide **$119–$379/month** (lowest advertised monthly price).
+- Across **46 tracked U.S. telehealth providers**, compounded semaglutide ranges **$69–$249/month** and compounded tirzepatide **$119–$379/month** (lowest advertised monthly price).
 - Brand-name **Ozempic and Wegovy list near `$1,000/month`** without insurance — the *same active molecule* (semaglutide) as compounded versions that cost roughly **90%+ less**.
 - The dataset covers each provider's monthly price, verified Trustpilot rating, medication types, insurance option, and state coverage.
 
@@ -26,13 +26,11 @@ GLP-1 pricing is famously opaque: the same molecule can cost `$69` or `$1,000` a
 | Embody | $69 | $119 | 9.4 | compounded |
 | SnagRx | $69 | $119 | 8.9 | compounded |
 | Ivim Health | $75 | $149 | 6.5 | both |
-| Wellmedr | $88 | $158 | 8.9 | compounded |
 | Trimi | $99 | $125 | 9.1 | compounded |
 | Bodybuilding.com Health+ | $99 | $129 | 8.7 | compounded |
-| bmiMD | $99 | — | 8.4 | compounded |
-| Telos Rx | $99 | — | 8.2 | compounded |
-| Oak Longevity | $130 | $199 | 8.9 | compounded |
-| AgelessRx | $139 | $249 | 6.1 | both |
+| Telos Rx | $99 | $139 | 8.2 | compounded |
+| bmiMD | $119 | $179 | 8.4 | compounded |
+| Yucca Health | $125 | $225 | 9.3 | compounded |
 
 *Full ranked table of all 46 providers (all-in cost + verified Trustpilot ratings): **[glp1watchdog.com/cheapest](https://glp1watchdog.com/cheapest)**.*
 
