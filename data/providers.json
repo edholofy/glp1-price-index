@@ -37,36 +37,10 @@
     },
     {
       "rank": 2,
-      "name": "Yucca Health",
-      "slug": "yucca-health",
-      "type": "compounded",
-      "rating_out_of_10": 9.3,
-      "rating_label": "Excellent",
-      "price_from": "$125",
-      "semaglutide_usd_month": 125,
-      "tirzepatide_usd_month": 225,
-      "program_fee_usd_month": null,
-      "medications": [
-        "Compounded Semaglutide+",
-        "Compounded Tirzepatide+"
-      ],
-      "fda_approved": false,
-      "insurance_accepted": false,
-      "oral_option": false,
-      "ships_all_50_states": true,
-      "states_covered": 50,
-      "consultation_fee": "Free",
-      "free_shipping": true,
-      "cancel_anytime": false,
-      "best_for": "Users who want a LegitScript-certified provider with verified patient reviews and flexible financing",
-      "review_url": "https://glp1watchdog.com/reviews/yucca-health"
-    },
-    {
-      "rank": 3,
       "name": "TrimRx",
       "slug": "trim-rx",
       "type": "compounded",
-      "rating_out_of_10": 9.2,
+      "rating_out_of_10": 9.3,
       "rating_label": "Excellent",
       "price_from": "$179",
       "semaglutide_usd_month": 179,
@@ -88,11 +62,11 @@
       "review_url": "https://glp1watchdog.com/reviews/trim-rx"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Trimi",
       "slug": "trimi",
       "type": "compounded",
-      "rating_out_of_10": 9.1,
+      "rating_out_of_10": 9.2,
       "rating_label": "Great",
       "price_from": "$99",
       "semaglutide_usd_month": 99,
@@ -114,7 +88,7 @@
       "review_url": "https://glp1watchdog.com/reviews/trimi"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Oak Longevity",
       "slug": "oak-longevity",
       "type": "compounded",
@@ -140,13 +114,13 @@
       "review_url": "https://glp1watchdog.com/reviews/oak-longevity"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Gala Health",
       "slug": "gala-health",
       "type": "compounded",
       "rating_out_of_10": 8.9,
       "rating_label": "Excellent",
-      "price_from": "$199",
+      "price_from": "$179",
       "semaglutide_usd_month": null,
       "tirzepatide_usd_month": null,
       "program_fee_usd_month": null,
@@ -166,7 +140,7 @@
       "review_url": "https://glp1watchdog.com/reviews/gala-health"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "MEDVi",
       "slug": "medvi",
       "type": "compounded",
@@ -192,7 +166,7 @@
       "review_url": "https://glp1watchdog.com/reviews/medvi"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "SkinnyRx",
       "slug": "skinnyrx",
       "type": "compounded",
@@ -220,7 +194,7 @@
       "review_url": "https://glp1watchdog.com/reviews/skinnyrx"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Wellmedr",
       "slug": "wellmedr",
       "type": "compounded",
@@ -247,7 +221,7 @@
       "review_url": "https://glp1watchdog.com/reviews/wellmedr"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "SnagRx",
       "slug": "snagrx",
       "type": "compounded",
@@ -273,7 +247,7 @@
       "review_url": "https://glp1watchdog.com/reviews/snagrx"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "ShedRx",
       "slug": "shedrx",
       "type": "both",
@@ -287,7 +261,8 @@
         "Compounded Semaglutide",
         "Compounded Tirzepatide",
         "Wegovy",
-        "Zepbound"
+        "Zepbound",
+        "Foundayo (oral orforglipron)"
       ],
       "fda_approved": true,
       "insurance_accepted": false,
@@ -296,12 +271,12 @@
       "states_covered": 50,
       "consultation_fee": "Included",
       "free_shipping": true,
-      "cancel_anytime": true,
+      "cancel_anytime": false,
       "best_for": "Users who want multiple medication delivery forms and a money-back weight loss guarantee",
       "review_url": "https://glp1watchdog.com/reviews/shedrx"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Sprout Health",
       "slug": "sprout-health",
       "type": "both",
@@ -327,15 +302,15 @@
       "review_url": "https://glp1watchdog.com/reviews/sprout-health"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Bodybuilding.com Health+",
       "slug": "bodybuilding-com",
       "type": "compounded",
       "rating_out_of_10": 8.7,
       "rating_label": "Great",
-      "price_from": "$99",
-      "semaglutide_usd_month": 99,
-      "tirzepatide_usd_month": 129,
+      "price_from": "$141.50",
+      "semaglutide_usd_month": 141.5,
+      "tirzepatide_usd_month": 174.67,
       "program_fee_usd_month": null,
       "medications": [
         "Compounded Semaglutide",
@@ -355,7 +330,7 @@
       "review_url": "https://glp1watchdog.com/reviews/bodybuilding-com"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Direct Meds GLP-1",
       "slug": "direct-meds",
       "type": "compounded",
@@ -381,7 +356,7 @@
       "review_url": "https://glp1watchdog.com/reviews/direct-meds"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "bmiMD",
       "slug": "bmimd",
       "type": "compounded",
@@ -409,7 +384,7 @@
       "review_url": "https://glp1watchdog.com/reviews/bmimd"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Wellorithm",
       "slug": "wellorithm",
       "type": "compounded",
@@ -437,7 +412,7 @@
       "review_url": "https://glp1watchdog.com/reviews/wellorithm"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Care Bare Rx",
       "slug": "care-bare-rx",
       "type": "compounded",
@@ -463,7 +438,7 @@
       "review_url": "https://glp1watchdog.com/reviews/care-bare-rx"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Mochi Health",
       "slug": "mochi-health",
       "type": "both",
@@ -493,15 +468,15 @@
       "review_url": "https://glp1watchdog.com/reviews/mochi-health"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Enhance MD",
       "slug": "enhance-md",
       "type": "both",
       "rating_out_of_10": 8.3,
       "rating_label": "Good",
-      "price_from": "$249",
-      "semaglutide_usd_month": 249,
-      "tirzepatide_usd_month": 379,
+      "price_from": "$212",
+      "semaglutide_usd_month": 212,
+      "tirzepatide_usd_month": 280,
       "program_fee_usd_month": null,
       "medications": [
         "Semaglutide",
@@ -520,7 +495,7 @@
       "review_url": "https://glp1watchdog.com/reviews/enhance-md"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Strut Health",
       "slug": "strut-health",
       "type": "compounded",
@@ -546,40 +521,13 @@
       "review_url": "https://glp1watchdog.com/reviews/strut-health"
     },
     {
-      "rank": 21,
-      "name": "Telos Rx",
-      "slug": "telos-rx",
-      "type": "compounded",
-      "rating_out_of_10": 8.2,
-      "rating_label": "Great",
-      "price_from": "$99",
-      "semaglutide_usd_month": 99,
-      "tirzepatide_usd_month": 139,
-      "program_fee_usd_month": null,
-      "medications": [
-        "Compounded Tirzepatide",
-        "Compounded Semaglutide",
-        "Oral Tirzepatide"
-      ],
-      "fda_approved": false,
-      "insurance_accepted": false,
-      "oral_option": true,
-      "ships_all_50_states": false,
-      "states_covered": 47,
-      "consultation_fee": "Included",
-      "free_shipping": true,
-      "cancel_anytime": true,
-      "best_for": "Users specifically seeking tirzepatide — especially the oral format",
-      "review_url": "https://glp1watchdog.com/reviews/telos-rx"
-    },
-    {
-      "rank": 22,
+      "rank": 20,
       "name": "GobyMeds",
       "slug": "gobymeds",
       "type": "both",
       "rating_out_of_10": 8.2,
       "rating_label": "Very Good",
-      "price_from": "$100",
+      "price_from": "$99",
       "semaglutide_usd_month": null,
       "tirzepatide_usd_month": null,
       "program_fee_usd_month": null,
@@ -601,7 +549,7 @@
       "review_url": "https://glp1watchdog.com/reviews/gobymeds"
     },
     {
-      "rank": 23,
+      "rank": 21,
       "name": "Noom Med",
       "slug": "noom",
       "type": "both",
@@ -630,7 +578,7 @@
       "review_url": "https://glp1watchdog.com/reviews/noom"
     },
     {
-      "rank": 24,
+      "rank": 22,
       "name": "TMates",
       "slug": "tmates",
       "type": "compounded",
@@ -657,13 +605,13 @@
       "review_url": "https://glp1watchdog.com/reviews/tmates"
     },
     {
-      "rank": 25,
+      "rank": 23,
       "name": "MangoRx",
       "slug": "mango-rx",
       "type": "compounded",
       "rating_out_of_10": 7.5,
       "rating_label": "Good",
-      "price_from": "$195",
+      "price_from": "$299",
       "semaglutide_usd_month": null,
       "tirzepatide_usd_month": null,
       "program_fee_usd_month": null,
@@ -683,35 +631,7 @@
       "review_url": "https://glp1watchdog.com/reviews/mango-rx"
     },
     {
-      "rank": 26,
-      "name": "Hers",
-      "slug": "hers",
-      "type": "brand",
-      "rating_out_of_10": 7.5,
-      "rating_label": "Good",
-      "price_from": "$149",
-      "semaglutide_usd_month": null,
-      "tirzepatide_usd_month": null,
-      "program_fee_usd_month": null,
-      "medications": [
-        "Wegovy (injectable)",
-        "Wegovy (oral)",
-        "Zepbound",
-        "Ozempic"
-      ],
-      "fda_approved": true,
-      "insurance_accepted": false,
-      "oral_option": true,
-      "ships_all_50_states": false,
-      "states_covered": 45,
-      "consultation_fee": "$0",
-      "free_shipping": true,
-      "cancel_anytime": true,
-      "best_for": "women who want brand-name Wegovy or Zepbound through a polished app and accept membership plus retail medication cost",
-      "review_url": "https://glp1watchdog.com/reviews/hers"
-    },
-    {
-      "rank": 27,
+      "rank": 24,
       "name": "Breeze Meds",
       "slug": "breeze-meds",
       "type": "compounded",
@@ -737,65 +657,37 @@
       "review_url": "https://glp1watchdog.com/reviews/breeze-meds"
     },
     {
-      "rank": 28,
-      "name": "Hims",
-      "slug": "hims",
-      "type": "brand",
-      "rating_out_of_10": 7.3,
-      "rating_label": "Good",
-      "price_from": "$149",
-      "semaglutide_usd_month": null,
-      "tirzepatide_usd_month": null,
-      "program_fee_usd_month": null,
-      "medications": [
-        "Wegovy (injectable)",
-        "Wegovy (oral)",
-        "Zepbound",
-        "Ozempic",
-        "Foundayo (oral orforglipron)"
-      ],
-      "fda_approved": true,
-      "insurance_accepted": false,
-      "oral_option": true,
-      "ships_all_50_states": false,
-      "states_covered": 45,
-      "consultation_fee": "$0",
-      "free_shipping": true,
-      "cancel_anytime": true,
-      "best_for": "people who want brand-name GLP-1s, including oral options, through a mainstream telehealth brand",
-      "review_url": "https://glp1watchdog.com/reviews/hims"
-    },
-    {
-      "rank": 29,
+      "rank": 25,
       "name": "Sesame Care",
       "slug": "sesame-care",
-      "type": "both",
+      "type": "brand",
       "rating_out_of_10": 7.2,
       "rating_label": "Good",
-      "price_from": "$225",
+      "price_from": "$208",
       "semaglutide_usd_month": null,
       "tirzepatide_usd_month": null,
       "program_fee_usd_month": null,
       "medications": [
-        "Ozempic",
         "Wegovy",
-        "Mounjaro",
+        "Wegovy HD",
+        "Wegovy (oral)",
         "Zepbound",
-        "Rybelsus"
+        "Zepbound KwikPen",
+        "Foundayo"
       ],
       "fda_approved": true,
       "insurance_accepted": true,
       "oral_option": true,
       "ships_all_50_states": true,
       "states_covered": 50,
-      "consultation_fee": "$25-75",
+      "consultation_fee": "$59/mo care subscription (12-month commitment)",
       "free_shipping": false,
       "cancel_anytime": true,
-      "best_for": "Users with insurance who want cheap doctor visits — medication costs are separate and not included",
+      "best_for": "People who specifically want brand-name FDA-approved GLP-1s and will commit to a year of care — not the cheapest route, and no compounded option",
       "review_url": "https://glp1watchdog.com/reviews/sesame-care"
     },
     {
-      "rank": 30,
+      "rank": 26,
       "name": "Willow",
       "slug": "willow",
       "type": "both",
@@ -821,7 +713,36 @@
       "review_url": "https://glp1watchdog.com/reviews/willow"
     },
     {
-      "rank": 31,
+      "rank": 27,
+      "name": "Hers",
+      "slug": "hers",
+      "type": "brand",
+      "rating_out_of_10": 6.9,
+      "rating_label": "Fair",
+      "price_from": "$149",
+      "semaglutide_usd_month": null,
+      "tirzepatide_usd_month": null,
+      "program_fee_usd_month": null,
+      "medications": [
+        "Wegovy (injectable)",
+        "Wegovy (oral)",
+        "Zepbound",
+        "Ozempic",
+        "Foundayo (oral orforglipron)"
+      ],
+      "fda_approved": true,
+      "insurance_accepted": false,
+      "oral_option": true,
+      "ships_all_50_states": false,
+      "states_covered": 45,
+      "consultation_fee": "$0",
+      "free_shipping": true,
+      "cancel_anytime": true,
+      "best_for": "women who want brand-name Wegovy, Zepbound or Foundayo through a polished app and accept membership plus retail medication cost",
+      "review_url": "https://glp1watchdog.com/reviews/hers"
+    },
+    {
+      "rank": 28,
       "name": "Fridays",
       "slug": "fridays",
       "type": "both",
@@ -848,13 +769,13 @@
       "review_url": "https://glp1watchdog.com/reviews/fridays"
     },
     {
-      "rank": 32,
+      "rank": 29,
       "name": "Ro",
       "slug": "ro",
       "type": "brand",
       "rating_out_of_10": 6.7,
       "rating_label": "Fair",
-      "price_from": "$99",
+      "price_from": "$74",
       "semaglutide_usd_month": null,
       "tirzepatide_usd_month": null,
       "program_fee_usd_month": null,
@@ -875,7 +796,36 @@
       "review_url": "https://glp1watchdog.com/reviews/ro"
     },
     {
-      "rank": 33,
+      "rank": 30,
+      "name": "Hims",
+      "slug": "hims",
+      "type": "brand",
+      "rating_out_of_10": 6.7,
+      "rating_label": "Fair",
+      "price_from": "$149",
+      "semaglutide_usd_month": null,
+      "tirzepatide_usd_month": null,
+      "program_fee_usd_month": null,
+      "medications": [
+        "Wegovy (injectable)",
+        "Wegovy (oral)",
+        "Zepbound",
+        "Ozempic",
+        "Foundayo (oral orforglipron)"
+      ],
+      "fda_approved": true,
+      "insurance_accepted": false,
+      "oral_option": true,
+      "ships_all_50_states": false,
+      "states_covered": 45,
+      "consultation_fee": "$0",
+      "free_shipping": true,
+      "cancel_anytime": true,
+      "best_for": "people who want brand-name GLP-1s, including oral options, through a mainstream telehealth brand",
+      "review_url": "https://glp1watchdog.com/reviews/hims"
+    },
+    {
+      "rank": 31,
       "name": "Ivim Health",
       "slug": "ivim-health",
       "type": "both",
@@ -906,7 +856,7 @@
       "review_url": "https://glp1watchdog.com/reviews/ivim-health"
     },
     {
-      "rank": 34,
+      "rank": 32,
       "name": "Hone Health",
       "slug": "hone-health",
       "type": "compounded",
@@ -932,7 +882,7 @@
       "review_url": "https://glp1watchdog.com/reviews/hone-health"
     },
     {
-      "rank": 35,
+      "rank": 33,
       "name": "JRNYS",
       "slug": "jrnys",
       "type": "brand",
@@ -958,7 +908,7 @@
       "review_url": "https://glp1watchdog.com/reviews/jrnys"
     },
     {
-      "rank": 36,
+      "rank": 34,
       "name": "AgelessRx",
       "slug": "agelessrx",
       "type": "both",
@@ -988,7 +938,7 @@
       "review_url": "https://glp1watchdog.com/reviews/agelessrx"
     },
     {
-      "rank": 37,
+      "rank": 35,
       "name": "Fella Health",
       "slug": "fella-health",
       "type": "compounded",
@@ -1014,7 +964,7 @@
       "review_url": "https://glp1watchdog.com/reviews/fella-health"
     },
     {
-      "rank": 38,
+      "rank": 36,
       "name": "Maximus",
       "slug": "maximus",
       "type": "compounded",
@@ -1040,7 +990,7 @@
       "review_url": "https://glp1watchdog.com/reviews/maximus"
     },
     {
-      "rank": 39,
+      "rank": 37,
       "name": "Elevate Health",
       "slug": "elevate-health",
       "type": "compounded",
@@ -1067,15 +1017,15 @@
       "review_url": "https://glp1watchdog.com/reviews/elevate-health"
     },
     {
-      "rank": 40,
+      "rank": 38,
       "name": "DudeMeds",
       "slug": "dudemeds",
       "type": "compounded",
       "rating_out_of_10": 5.7,
       "rating_label": "Below Average",
-      "price_from": "$199",
-      "semaglutide_usd_month": null,
-      "tirzepatide_usd_month": null,
+      "price_from": "$149",
+      "semaglutide_usd_month": 149,
+      "tirzepatide_usd_month": 233,
       "program_fee_usd_month": null,
       "medications": [
         "Compounded Semaglutide (Oral)",
@@ -1094,7 +1044,7 @@
       "review_url": "https://glp1watchdog.com/reviews/dudemeds"
     },
     {
-      "rank": 41,
+      "rank": 39,
       "name": "SynergyRx",
       "slug": "synergyrx",
       "type": "both",
@@ -1123,7 +1073,7 @@
       "review_url": "https://glp1watchdog.com/reviews/synergyrx"
     },
     {
-      "rank": 42,
+      "rank": 40,
       "name": "PeterMD",
       "slug": "peter-md",
       "type": "compounded",
@@ -1149,7 +1099,33 @@
       "review_url": "https://glp1watchdog.com/reviews/peter-md"
     },
     {
-      "rank": 43,
+      "rank": 41,
+      "name": "Yucca Health",
+      "slug": "yucca-health",
+      "type": "compounded",
+      "rating_out_of_10": 8.9,
+      "rating_label": "Excellent",
+      "price_from": "$125",
+      "semaglutide_usd_month": 125,
+      "tirzepatide_usd_month": 225,
+      "program_fee_usd_month": null,
+      "medications": [
+        "Compounded Semaglutide+",
+        "Compounded Tirzepatide+"
+      ],
+      "fda_approved": false,
+      "insurance_accepted": false,
+      "oral_option": false,
+      "ships_all_50_states": true,
+      "states_covered": 50,
+      "consultation_fee": "Free",
+      "free_shipping": true,
+      "cancel_anytime": false,
+      "best_for": "Users who want a LegitScript-certified provider with verified patient reviews and flexible financing",
+      "review_url": "https://glp1watchdog.com/reviews/yucca-health"
+    },
+    {
+      "rank": 42,
       "name": "MyStart Health",
       "slug": "mystart-health",
       "type": "both",
@@ -1175,6 +1151,33 @@
       "cancel_anytime": true,
       "best_for": "Users who value a money-back weight-loss guarantee and price-lock protection",
       "review_url": "https://glp1watchdog.com/reviews/mystart-health"
+    },
+    {
+      "rank": 43,
+      "name": "Telos Rx",
+      "slug": "telos-rx",
+      "type": "compounded",
+      "rating_out_of_10": 8.2,
+      "rating_label": "Great",
+      "price_from": "$99",
+      "semaglutide_usd_month": 99,
+      "tirzepatide_usd_month": 139,
+      "program_fee_usd_month": null,
+      "medications": [
+        "Compounded Tirzepatide",
+        "Compounded Semaglutide",
+        "Oral Tirzepatide"
+      ],
+      "fda_approved": false,
+      "insurance_accepted": false,
+      "oral_option": true,
+      "ships_all_50_states": false,
+      "states_covered": 47,
+      "consultation_fee": "Included",
+      "free_shipping": true,
+      "cancel_anytime": true,
+      "best_for": "Users specifically seeking tirzepatide — especially the oral format",
+      "review_url": "https://glp1watchdog.com/reviews/telos-rx"
     },
     {
       "rank": 44,
