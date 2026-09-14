@@ -6,8 +6,8 @@
   "methodology": "https://glp1watchdog.com/methodology",
   "docs": "https://glp1watchdog.com/data",
   "csv": "https://glp1watchdog.com/providers.csv",
-  "last_updated": "2026-08",
-  "provider_count": 46,
+  "last_updated": "2026-09",
+  "provider_count": 47,
   "providers": [
     {
       "rank": 1,
@@ -173,8 +173,8 @@
       "rating_out_of_10": 8.9,
       "rating_label": "Excellent",
       "price_from": "$199",
-      "semaglutide_usd_month": 199,
-      "tirzepatide_usd_month": 299,
+      "semaglutide_usd_month": null,
+      "tirzepatide_usd_month": null,
       "program_fee_usd_month": null,
       "medications": [
         "Compounded Semaglutide (Injectable)",
@@ -201,8 +201,8 @@
       "rating_out_of_10": 8.9,
       "rating_label": "Excellent",
       "price_from": "$199",
-      "semaglutide_usd_month": 199,
-      "tirzepatide_usd_month": 299,
+      "semaglutide_usd_month": null,
+      "tirzepatide_usd_month": null,
       "program_fee_usd_month": null,
       "medications": [
         "Compounded Semaglutide",
@@ -341,12 +341,13 @@
       "tirzepatide_usd_month": 297,
       "program_fee_usd_month": null,
       "medications": [
-        "Compounded Semaglutide",
+        "Compounded Semaglutide (Sublingual)",
+        "Compounded Semaglutide (Injectable)",
         "Compounded Tirzepatide"
       ],
       "fda_approved": false,
       "insurance_accepted": false,
-      "oral_option": false,
+      "oral_option": true,
       "ships_all_50_states": false,
       "states_covered": 45,
       "consultation_fee": "Included",
@@ -380,7 +381,7 @@
       "consultation_fee": "Included",
       "free_shipping": true,
       "cancel_anytime": true,
-      "best_for": "Budget-first users who want an established, high-volume $99 compounded program",
+      "best_for": "Budget-first users who want an established, high-volume $119 compounded program",
       "review_url": "https://glp1watchdog.com/reviews/bmimd"
     },
     {
@@ -390,9 +391,9 @@
       "type": "compounded",
       "rating_out_of_10": 8.4,
       "rating_label": "Great",
-      "price_from": "$147",
-      "semaglutide_usd_month": 147,
-      "tirzepatide_usd_month": 249,
+      "price_from": "$199",
+      "semaglutide_usd_month": null,
+      "tirzepatide_usd_month": null,
       "program_fee_usd_month": null,
       "medications": [
         "Compounded Semaglutide",
@@ -606,6 +607,32 @@
     },
     {
       "rank": 23,
+      "name": "Amble",
+      "slug": "amble",
+      "type": "compounded",
+      "rating_out_of_10": 7.6,
+      "rating_label": "Good",
+      "price_from": "$135",
+      "semaglutide_usd_month": 135,
+      "tirzepatide_usd_month": null,
+      "program_fee_usd_month": null,
+      "medications": [
+        "Compounded Semaglutide",
+        "Compounded Tirzepatide"
+      ],
+      "fda_approved": false,
+      "insurance_accepted": false,
+      "oral_option": false,
+      "ships_all_50_states": true,
+      "states_covered": 50,
+      "consultation_fee": "Included",
+      "free_shipping": true,
+      "cancel_anytime": false,
+      "best_for": "cash-pay buyers who want compounded semaglutide with no membership fee and will prepay a 3- or 6-month plan they cannot refund",
+      "review_url": "https://glp1watchdog.com/reviews/amble"
+    },
+    {
+      "rank": 24,
       "name": "MangoRx",
       "slug": "mango-rx",
       "type": "compounded",
@@ -631,7 +658,7 @@
       "review_url": "https://glp1watchdog.com/reviews/mango-rx"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Breeze Meds",
       "slug": "breeze-meds",
       "type": "compounded",
@@ -657,7 +684,7 @@
       "review_url": "https://glp1watchdog.com/reviews/breeze-meds"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Sesame Care",
       "slug": "sesame-care",
       "type": "brand",
@@ -687,7 +714,7 @@
       "review_url": "https://glp1watchdog.com/reviews/sesame-care"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Willow",
       "slug": "willow",
       "type": "both",
@@ -713,7 +740,7 @@
       "review_url": "https://glp1watchdog.com/reviews/willow"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Hers",
       "slug": "hers",
       "type": "brand",
@@ -742,7 +769,7 @@
       "review_url": "https://glp1watchdog.com/reviews/hers"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Fridays",
       "slug": "fridays",
       "type": "both",
@@ -769,7 +796,7 @@
       "review_url": "https://glp1watchdog.com/reviews/fridays"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Ro",
       "slug": "ro",
       "type": "brand",
@@ -796,7 +823,7 @@
       "review_url": "https://glp1watchdog.com/reviews/ro"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Hims",
       "slug": "hims",
       "type": "brand",
@@ -825,7 +852,7 @@
       "review_url": "https://glp1watchdog.com/reviews/hims"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Ivim Health",
       "slug": "ivim-health",
       "type": "both",
@@ -856,7 +883,7 @@
       "review_url": "https://glp1watchdog.com/reviews/ivim-health"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Hone Health",
       "slug": "hone-health",
       "type": "compounded",
@@ -882,7 +909,7 @@
       "review_url": "https://glp1watchdog.com/reviews/hone-health"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "JRNYS",
       "slug": "jrnys",
       "type": "brand",
@@ -908,7 +935,7 @@
       "review_url": "https://glp1watchdog.com/reviews/jrnys"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "AgelessRx",
       "slug": "agelessrx",
       "type": "both",
@@ -938,7 +965,7 @@
       "review_url": "https://glp1watchdog.com/reviews/agelessrx"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Fella Health",
       "slug": "fella-health",
       "type": "compounded",
@@ -964,7 +991,7 @@
       "review_url": "https://glp1watchdog.com/reviews/fella-health"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Maximus",
       "slug": "maximus",
       "type": "compounded",
@@ -990,7 +1017,7 @@
       "review_url": "https://glp1watchdog.com/reviews/maximus"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Elevate Health",
       "slug": "elevate-health",
       "type": "compounded",
@@ -1017,7 +1044,7 @@
       "review_url": "https://glp1watchdog.com/reviews/elevate-health"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "DudeMeds",
       "slug": "dudemeds",
       "type": "compounded",
@@ -1044,7 +1071,7 @@
       "review_url": "https://glp1watchdog.com/reviews/dudemeds"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "SynergyRx",
       "slug": "synergyrx",
       "type": "both",
@@ -1073,7 +1100,7 @@
       "review_url": "https://glp1watchdog.com/reviews/synergyrx"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "PeterMD",
       "slug": "peter-md",
       "type": "compounded",
@@ -1099,7 +1126,7 @@
       "review_url": "https://glp1watchdog.com/reviews/peter-md"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Yucca Health",
       "slug": "yucca-health",
       "type": "compounded",
@@ -1125,7 +1152,7 @@
       "review_url": "https://glp1watchdog.com/reviews/yucca-health"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "MyStart Health",
       "slug": "mystart-health",
       "type": "both",
@@ -1153,7 +1180,7 @@
       "review_url": "https://glp1watchdog.com/reviews/mystart-health"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Telos Rx",
       "slug": "telos-rx",
       "type": "compounded",
@@ -1180,7 +1207,7 @@
       "review_url": "https://glp1watchdog.com/reviews/telos-rx"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Novi",
       "slug": "novi",
       "type": "both",
@@ -1206,7 +1233,7 @@
       "review_url": "https://glp1watchdog.com/reviews/novi"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Zealthy",
       "slug": "zealthy",
       "type": "both",
@@ -1234,7 +1261,7 @@
       "review_url": "https://glp1watchdog.com/reviews/zealthy"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Eden Health GLP-1",
       "slug": "eden-health",
       "type": "both",
