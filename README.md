@@ -9,7 +9,7 @@
 ## TL;DR — GLP-1 prices (September 2026)
 
 - **Cheapest compounded semaglutide: `$69/month`.** Cheapest compounded tirzepatide: **`$119/month`.**
-- Across **47 tracked U.S. telehealth providers**, compounded semaglutide ranges **$69–$249/month** and compounded tirzepatide **$119–$299/month** (lowest advertised standing monthly price; promotions excluded).
+- Across **47 tracked U.S. telehealth providers**, compounded semaglutide ranges **$69–$299/month** and compounded tirzepatide **$119–$399/month** (lowest advertised standing monthly price; promotions excluded).
 - Brand-name **Ozempic and Wegovy list near `$1,000/month`** without insurance — the *same active molecule* (semaglutide) as compounded versions that cost roughly **90%+ less**.
 - The dataset covers each provider's monthly price, verified Trustpilot rating, medication types, insurance option, and state coverage.
 
