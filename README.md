@@ -25,7 +25,7 @@ GLP-1 pricing is famously opaque: the same molecule can cost `$69` or `$1,000` a
 |---|---:|---:|---:|---|
 | Embody | $69 | $119 | 9.4 | compounded |
 | SnagRx | $69 | $119 | 8.9 | compounded |
-| Ivim Health | $75 | $149 | 6.5 | both |
+| Ivim Health | $75 | $133 | 6.5 | both |
 | Trimi | $99 | $125 | 9.2 | compounded |
 | Telos Rx | $99 | $139 | 8.2 | compounded |
 | Oak Longevity | $119 | $185 | 8.9 | compounded |
