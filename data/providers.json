@@ -7,7 +7,7 @@
   "docs": "https://glp1watchdog.com/data",
   "csv": "https://glp1watchdog.com/providers.csv",
   "last_updated": "2026-09",
-  "provider_count": 47,
+  "provider_count": 48,
   "providers": [
     {
       "rank": 1,
@@ -94,9 +94,9 @@
       "type": "compounded",
       "rating_out_of_10": 8.9,
       "rating_label": "Excellent",
-      "price_from": "$167",
-      "semaglutide_usd_month": 167,
-      "tirzepatide_usd_month": null,
+      "price_from": "$119",
+      "semaglutide_usd_month": 119,
+      "tirzepatide_usd_month": 185,
       "program_fee_usd_month": null,
       "medications": [
         "Compounded Semaglutide",
@@ -146,8 +146,8 @@
       "type": "compounded",
       "rating_out_of_10": 8.9,
       "rating_label": "Excellent",
-      "price_from": "$179",
-      "semaglutide_usd_month": null,
+      "price_from": "$299",
+      "semaglutide_usd_month": 299,
       "tirzepatide_usd_month": null,
       "program_fee_usd_month": null,
       "medications": [
@@ -391,9 +391,9 @@
       "type": "compounded",
       "rating_out_of_10": 8.4,
       "rating_label": "Great",
-      "price_from": "$199",
-      "semaglutide_usd_month": null,
-      "tirzepatide_usd_month": null,
+      "price_from": "$247",
+      "semaglutide_usd_month": 247,
+      "tirzepatide_usd_month": 349,
       "program_fee_usd_month": null,
       "medications": [
         "Compounded Semaglutide",
@@ -607,6 +607,36 @@
     },
     {
       "rank": 23,
+      "name": "MEDGm",
+      "slug": "medgm",
+      "type": "both",
+      "rating_out_of_10": 7.8,
+      "rating_label": "Good",
+      "price_from": "$169",
+      "semaglutide_usd_month": null,
+      "tirzepatide_usd_month": null,
+      "program_fee_usd_month": null,
+      "medications": [
+        "Compounded Semaglutide",
+        "Compounded Semaglutide (oral tablets)",
+        "Compounded Tirzepatide",
+        "Wegovy",
+        "Zepbound",
+        "Ozempic"
+      ],
+      "fda_approved": true,
+      "insurance_accepted": false,
+      "oral_option": true,
+      "ships_all_50_states": false,
+      "states_covered": 49,
+      "consultation_fee": "Included",
+      "free_shipping": true,
+      "cancel_anytime": true,
+      "best_for": "Users who want one all-inclusive price, a refund if they aren't prescribed, and a brand-name fallback under the same roof",
+      "review_url": "https://glp1watchdog.com/reviews/medgm"
+    },
+    {
+      "rank": 24,
       "name": "Amble",
       "slug": "amble",
       "type": "compounded",
@@ -632,7 +662,7 @@
       "review_url": "https://glp1watchdog.com/reviews/amble"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "MangoRx",
       "slug": "mango-rx",
       "type": "compounded",
@@ -658,7 +688,7 @@
       "review_url": "https://glp1watchdog.com/reviews/mango-rx"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Breeze Meds",
       "slug": "breeze-meds",
       "type": "compounded",
@@ -684,7 +714,7 @@
       "review_url": "https://glp1watchdog.com/reviews/breeze-meds"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Sesame Care",
       "slug": "sesame-care",
       "type": "brand",
@@ -714,10 +744,10 @@
       "review_url": "https://glp1watchdog.com/reviews/sesame-care"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Willow",
       "slug": "willow",
-      "type": "both",
+      "type": "compounded",
       "rating_out_of_10": 6.9,
       "rating_label": "Fair",
       "price_from": "$299",
@@ -730,19 +760,19 @@
         "Compounded Semaglutide (Tablets)",
         "Compounded Tirzepatide (Tablets)"
       ],
-      "fda_approved": true,
+      "fda_approved": false,
       "insurance_accepted": false,
       "oral_option": true,
-      "ships_all_50_states": true,
-      "states_covered": 50,
+      "ships_all_50_states": false,
+      "states_covered": 38,
       "consultation_fee": "Free",
       "free_shipping": true,
       "cancel_anytime": true,
-      "best_for": "Users who want a balance of quality care and reasonable pricing",
+      "best_for": "Women who want a tablet option and 24/7 support and will pay a premium for it",
       "review_url": "https://glp1watchdog.com/reviews/willow"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Hers",
       "slug": "hers",
       "type": "brand",
@@ -771,7 +801,7 @@
       "review_url": "https://glp1watchdog.com/reviews/hers"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Fridays",
       "slug": "fridays",
       "type": "both",
@@ -798,7 +828,7 @@
       "review_url": "https://glp1watchdog.com/reviews/fridays"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Ro",
       "slug": "ro",
       "type": "brand",
@@ -825,7 +855,7 @@
       "review_url": "https://glp1watchdog.com/reviews/ro"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Hims",
       "slug": "hims",
       "type": "brand",
@@ -854,7 +884,7 @@
       "review_url": "https://glp1watchdog.com/reviews/hims"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Ivim Health",
       "slug": "ivim-health",
       "type": "both",
@@ -885,7 +915,7 @@
       "review_url": "https://glp1watchdog.com/reviews/ivim-health"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Hone Health",
       "slug": "hone-health",
       "type": "compounded",
@@ -911,7 +941,7 @@
       "review_url": "https://glp1watchdog.com/reviews/hone-health"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "JRNYS",
       "slug": "jrnys",
       "type": "brand",
@@ -937,7 +967,7 @@
       "review_url": "https://glp1watchdog.com/reviews/jrnys"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "AgelessRx",
       "slug": "agelessrx",
       "type": "both",
@@ -967,21 +997,22 @@
       "review_url": "https://glp1watchdog.com/reviews/agelessrx"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Fella Health",
       "slug": "fella-health",
-      "type": "compounded",
+      "type": "both",
       "rating_out_of_10": 6,
       "rating_label": "Fair",
       "price_from": "$165",
-      "semaglutide_usd_month": 165,
+      "semaglutide_usd_month": null,
       "tirzepatide_usd_month": null,
       "program_fee_usd_month": null,
       "medications": [
         "Compounded Semaglutide",
-        "Compounded Tirzepatide"
+        "Compounded Tirzepatide",
+        "Brand GLP-1 via LillyDirect"
       ],
-      "fda_approved": false,
+      "fda_approved": true,
       "insurance_accepted": false,
       "oral_option": false,
       "ships_all_50_states": false,
@@ -993,7 +1024,7 @@
       "review_url": "https://glp1watchdog.com/reviews/fella-health"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Maximus",
       "slug": "maximus",
       "type": "compounded",
@@ -1019,7 +1050,7 @@
       "review_url": "https://glp1watchdog.com/reviews/maximus"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Elevate Health",
       "slug": "elevate-health",
       "type": "compounded",
@@ -1046,7 +1077,7 @@
       "review_url": "https://glp1watchdog.com/reviews/elevate-health"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "DudeMeds",
       "slug": "dudemeds",
       "type": "compounded",
@@ -1073,7 +1104,7 @@
       "review_url": "https://glp1watchdog.com/reviews/dudemeds"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "SynergyRx",
       "slug": "synergyrx",
       "type": "both",
@@ -1102,7 +1133,7 @@
       "review_url": "https://glp1watchdog.com/reviews/synergyrx"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "PeterMD",
       "slug": "peter-md",
       "type": "compounded",
@@ -1128,7 +1159,7 @@
       "review_url": "https://glp1watchdog.com/reviews/peter-md"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Yucca Health",
       "slug": "yucca-health",
       "type": "compounded",
@@ -1154,7 +1185,7 @@
       "review_url": "https://glp1watchdog.com/reviews/yucca-health"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "MyStart Health",
       "slug": "mystart-health",
       "type": "both",
@@ -1182,7 +1213,7 @@
       "review_url": "https://glp1watchdog.com/reviews/mystart-health"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Telos Rx",
       "slug": "telos-rx",
       "type": "compounded",
@@ -1209,7 +1240,7 @@
       "review_url": "https://glp1watchdog.com/reviews/telos-rx"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Novi",
       "slug": "novi",
       "type": "both",
@@ -1235,7 +1266,7 @@
       "review_url": "https://glp1watchdog.com/reviews/novi"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Zealthy",
       "slug": "zealthy",
       "type": "both",
@@ -1263,7 +1294,7 @@
       "review_url": "https://glp1watchdog.com/reviews/zealthy"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Eden Health GLP-1",
       "slug": "eden-health",
       "type": "both",

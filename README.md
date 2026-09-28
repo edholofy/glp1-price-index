@@ -9,7 +9,7 @@
 ## TL;DR — GLP-1 prices (September 2026)
 
 - **Cheapest compounded semaglutide: `$69/month`.** Cheapest compounded tirzepatide: **`$119/month`.**
-- Across **47 tracked U.S. telehealth providers**, compounded semaglutide ranges **$69–$299/month** and compounded tirzepatide **$119–$399/month** (lowest advertised standing monthly price; promotions excluded).
+- Across **48 tracked U.S. telehealth providers**, compounded semaglutide ranges **$69–$299/month** and compounded tirzepatide **$119–$399/month** (lowest advertised standing monthly price; promotions excluded).
 - Brand-name **Ozempic and Wegovy list near `$1,000/month`** without insurance — the *same active molecule* (semaglutide) as compounded versions that cost roughly **90%+ less**.
 - The dataset covers each provider's monthly price, verified Trustpilot rating, medication types, insurance option, and state coverage.
 
@@ -28,17 +28,17 @@ GLP-1 pricing is famously opaque: the same molecule can cost `$69` or `$1,000` a
 | Ivim Health | $75 | $149 | 6.5 | both |
 | Trimi | $99 | $125 | 9.2 | compounded |
 | Telos Rx | $99 | $139 | 8.2 | compounded |
+| Oak Longevity | $119 | $185 | 8.9 | compounded |
 | bmiMD | $119 | $179 | 8.4 | compounded |
 | Yucca Health | $125 | $225 | 8.9 | compounded |
-| Strut Health | $129 | — | 8.2 | compounded |
 
-*Full ranked table of all 47 providers (all-in cost + verified Trustpilot ratings): **[glp1watchdog.com/cheapest](https://glp1watchdog.com/cheapest)**.*
+*Full ranked table of all 48 providers (all-in cost + verified Trustpilot ratings): **[glp1watchdog.com/cheapest](https://glp1watchdog.com/cheapest)**.*
 
 ## The dataset
 
 | File | What it is |
 |---|---|
-| [`data/providers.json`](data/providers.json) | Full structured records for 47 GLP-1 telehealth providers |
+| [`data/providers.json`](data/providers.json) | Full structured records for 48 GLP-1 telehealth providers |
 | [`data/providers.csv`](data/providers.csv) | Same data, spreadsheet-friendly |
 | [`data/drugs.json`](data/drugs.json) | GLP-1 drug reference: molecule, FDA status, trial efficacy |
 
